@@ -1,0 +1,10 @@
+# All unpinned blobs below are extracted from casuarina-user 10 QKQ1.200311.002 V430A_OPN_U_B13_210315 release-keys
+
+# Graphics firmware
+vendor/firmware/a506_zap.b00
+vendor/firmware/a506_zap.b01
+vendor/firmware/a506_zap.b02
+vendor/firmware/a506_zap.elf
+vendor/firmware/a506_zap.mdt
+vendor/firmware/a530_pfp.fw
+vendor/firmware/a530_pm4.fw
